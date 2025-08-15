@@ -35,18 +35,10 @@ This script uses the `clearml.Dataset` API to upload and version your dataset.
 ## 💡 Use Cases
 
 - ML-based wireless pathloss prediction
-- Radio map reconstruction
-- Coverage and connectivity estimation
-
+- 
 ---
 
 ## 🔗 ClearML Integration
-
-This dataset is versioned and tracked via ClearML for:
-
-- Experiment reproducibility
-- Easy team collaboration
-- Data version control
 
 ```python
 from clearml import Dataset
